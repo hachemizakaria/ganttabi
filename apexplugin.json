@@ -1,0 +1,32 @@
+{
+  "name": "Ganttabi",
+  "version": "0.2",
+  "description": "It´s useful to guide your users through the application, or give your users a first run wizard to explain parts of your app.",
+  "keywords": ["gantt", "schedule", "resources", "gantt table"],
+  "homepage": "https://github.com/hachemizakaria/ganttabi",
+  "bugs": {
+    "url": "https://github.com/hachemizakaria/ganttabi/issues"
+  },
+  "license": "GPL",
+  "commercial": "No",
+  "author": {
+    "name": "hachemi zakaria",
+    "url": "https://github.com/hachemizakaria"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hachemizakaria/ganttabi"
+  },
+  "oracle": {
+    "versions": ["19.21.0.1"],
+    "apex": {
+      "versions": ["23.1"],
+      "plugin": {
+        "internalName": "com.zakpex.ganttabi",
+        "type": "template component",
+        "demo": "https://apex.oracle.com/pls/apex/r/hachemi/ganttabi/home",
+        "previewImage": "https://raw.githubusercontent.com/hachemizakaria/ganttabi/master/plugin-preview.png"
+      }
+    }
+  }
+}
