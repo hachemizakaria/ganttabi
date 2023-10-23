@@ -68,6 +68,7 @@ I am fully thankfull to the valuable shares, blogs and vlogs by :
 - Philip Hartenfeller. https://github.com/phartenfeller
 - John Dixon. https://blog.cloudnueva.com/
 - Menno Hoogendijk. https://github.com/mennooo
+- APEX team
 
 Additionally, I specify the recipients of my assistance in their pursuit of improvement ;) 
 
