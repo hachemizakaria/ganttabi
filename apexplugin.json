@@ -1,7 +1,7 @@
 {
   "name": "Ganttabi",
   "version": "0.2",
-  "description": "It´s useful to guide your users through the application, or give your users a first run wizard to explain parts of your app.",
+  "description": "Table to represent ressource schedule ",
   "keywords": ["gantt", "schedule", "resources", "gantt table"],
   "homepage": "https://github.com/hachemizakaria/ganttabi",
   "bugs": {
